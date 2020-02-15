@@ -1,39 +1,3 @@
-* Vegan Pancakes
-** Ingredients
-
-   - 3 cups all-purpose ﬂour (450 g)
-   - 2 tablespoons sugar (30 g)
-   - 1 teaspoon baking powder (5 g)
-   - 1 teaspoon salt (5 g)
-   - 1/4 cup vegetable oil (60 mL)
-   - 1/2 teaspoon vanilla extract (2.5 mL)
-   - 3 cups soy milk, or your favorite non-dairy milk (750 mL)
-   - 3 tablespoons oil (45 mL) or as needed for cooking
-** Directions
-
-   1. In a bowl, combine flour, sugar, baking powder, and salt. Add remaining ingredients and whisk until mixture is smooth.
-   2. Heat 1 tablespoon oil (15 mL) in a non-stick pan over medium heat. Pour about 1/4 cup (60 mL) of batter into pan. Cook pancake for 2 minutes on each side until lightly golden. Repeat with remaining batter, adding oil as needed. Top pancakes with maple syrup and seasonal fruit.
-
-* Vegan Sauce (Jule style)
-
-** Ingredients
-
-
-   - $\frac{1}{4}$ - $\frac{1}{2}$ heads of celeriac (head is about 1€)
-   - 2 onions
-   - 2 carrots
-   - 2 potatoes
-   - (1 pepper)
-   - (1 leek)
-** Directions
-
-1. Cut everything up.
-2. Fry: celeriac → carrots → potatoes → onions & pepper
-3. When it starts to roast/burn → deglace & reduce
-4. Blend
-5. Spice with asia spice *or* sauce thickener and curry + spices
-
-
 * Vegan Gravy
   :PROPERTIES:
   :source-url: https://www.allrecipes.com/recipe/232285/vegan-gravy/?internalSource=hub%20recipe&referringContentType=Search&clickId=cardslot%2016
@@ -57,3 +21,39 @@
   into hot oil; cook and stir until there are no lumps and the mixture becomes
   paste-like, about 5 minutes. Pour soy milk into the skillet; cook and stir until the
   mixture thickens, about 5 minutes more. Add yeast and black pepper; stir.
+* Vegan Pancakes
+** Ingredients
+
+   - 3 cups all-purpose ﬂour (450 g)
+   - 2 tablespoons sugar (30 g)
+   - 1 teaspoon baking powder (5 g)
+   - 1 teaspoon salt (5 g)
+   - 1/4 cup vegetable oil (60 mL)
+   - 1/2 teaspoon vanilla extract (2.5 mL)
+   - 3 cups soy milk, or your favorite non-dairy milk (750 mL)
+   - 3 tablespoons oil (45 mL) or as needed for cooking
+** Directions
+
+   1. In a bowl, combine flour, sugar, baking powder, and salt. Add remaining ingredients and whisk until mixture is smooth.
+   2. Heat 1 tablespoon oil (15 mL) in a non-stick pan over medium heat. Pour about 1/4 cup (60 mL) of batter into pan. Cook pancake for 2 minutes on each side until lightly golden. Repeat with remaining batter, adding oil as needed. Top pancakes with maple syrup and seasonal fruit.
+
+* Vegan Sauce (Nichan style)
+:PROPERTIES:
+:own: t
+:end:
+** Ingredients
+
+
+   - $\frac{1}{4}$ - $\frac{1}{2}$ heads of celeriac (head is about 1€)
+   - 2 onions
+   - 2 carrots
+   - 2 potatoes
+   - (1 pepper)
+   - (1 leek)
+** Directions
+
+1. Cut everything up.
+2. Fry: celeriac → carrots → potatoes → onions & pepper
+3. When it starts to roast/burn → deglace & reduce
+4. Blend
+5. Spice with asia spice *or* sauce thickener and curry + spices
